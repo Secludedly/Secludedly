@@ -4,9 +4,9 @@
 
 <p align="center">
   <sub>
-    <b style="color:#00f5ff">Dark Automation</b> · 
-    <b style="color:#8a7dff">C#</b> · 
-    <b style="color:#ff2f92">Bots & Tooling</b>
+    <span style="color:#00f5ff">Dark Automation</span> •
+    <span style="color:#8a7dff">C#</span> •
+    <span style="color:#ff2f92">Bots & Tooling</span>
   </sub>
 </p>
 
@@ -21,19 +21,19 @@ Pokémon legality nerd.
 I like to hack and mod shit.
 
 I build bots, tools, and systems that don’t fuck around — **with the help of AI**.  
-I’m not pretending otherwise. AI teaches, I learn, I write better code. Simple as that.
+Not pretending otherwise. AI teaches, I learn, I write better code.
 
 ---
 
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="36"/>
 </p>
 
 ---
@@ -41,12 +41,12 @@ I’m not pretending otherwise. AI teaches, I learn, I write better code. Simple
 ## 🔥 What I Actually Build
 
 ### ⚙️ ZE FusionBot
-Discord-based Pokémon trading & automation bot.  
-Built on **SysBot.NET + PKHeX.Core**, heavily modified and stabilized.
+Discord-based Pokémon trading & automation bot  
+Built on **SysBot.NET + PKHeX.Core**, heavily modified.
 
 - Auto-legality enforcement  
 - Batch trades & ZIP handling  
-- Encounter, IV, nature, and language enforcement  
+- Encounter, IV, nature, language enforcement  
 - Custom WinForms controller UI  
 - Thread-safe trade queues  
 
@@ -62,15 +62,11 @@ A **no-bullshit** Windows desktop organizer.
 
 ---
 
-## 📊 Activity & Stats
+## 🧩 How I Work
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Secludedly&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app?user=Secludedly&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
+- I automate first, polish second  
+- I care about legality, correctness, and stability  
+- I refactor aggressively  
 
 ---
 
@@ -78,7 +74,6 @@ A **no-bullshit** Windows desktop organizer.
 
 <p align="center">
   <sub>
-    No time for bullshit. I build things. They exist.  
-    Use them or don’t.
+    No hype. No flex cards. Just projects that work.
   </sub>
 </p>
