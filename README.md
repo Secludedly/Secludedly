@@ -11,7 +11,7 @@ Pokémon legality nerd.
 I like to hack and mod shit.
 
 I build bots, tools, and systems that don’t fuck around, with the help of AI.
-I'm not gonna lie and tell you I'm something I'm not. AI is cool, shut up.
+I'm not gonna lie and tell you I'm something I'm not. AI is cool, shut up. It teaches me as I learn and write.
 
 ---
 
