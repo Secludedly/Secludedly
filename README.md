@@ -12,10 +12,10 @@
 
 ## 🧠 About Me
 
-C# hobbyist in training. Pokémon legality nerd. 
-I like to hack and mod shit. 
-I build bots, tools, and systems that don’t fuck around — **with the help of AI**. 
-Not gonna pretend otherwise. AI teaches, I learn, I write better code. End of story.
+C# hobbyist in training. Pokémon legality nerd.  
+I like to hack and mod shit.   
+I build bots, tools, and systems that don’t fuck around — **with the help of AI**.   
+Not gonna pretend otherwise. AI teaches, I learn, I write better code. End of story.  
 
 ---
 
@@ -48,7 +48,7 @@ Not gonna pretend otherwise. AI teaches, I learn, I write better code. End of st
 
 ### ⚙️ ZE FusionBot
 Discord Pokémon trading & automation bot.  
-Built on **SysBot.NET + PKHeX.Core**, heavily customized.
+Built on **SysBot.NET + PKHeX.Core**, heavily customized.  
 
 <p align="center">
   <a href="https://github.com/Secludedly/ZE-FusionBot/releases">
@@ -65,7 +65,7 @@ Built on **SysBot.NET + PKHeX.Core**, heavily customized.
 ---
 
 ### 🔹 NoBS Desktop Organizer
-A no-bullshit Windows desktop organizer — no Electron bloat.
+A no-bullshit Windows desktop organizer with live positioning memory, volume control and desktop wallpaper per profile.
 
 <p align="center">
   <a href="https://github.com/Secludedly/NoBS.DesktopOrganizer/releases">
