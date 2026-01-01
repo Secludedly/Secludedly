@@ -12,10 +12,10 @@
 
 ## 🧠 About Me
 
-**Secludedly** — Dark-mode automation rogue.  
-
-Full-stack tinkerer in **C#**, bot developer, Pokémon tooling nerd.  
-I build bots, tools, and systems that punch above their weight — AI helps me level up faster.
+C# hobbyist in training. Pokémon legality nerd. 
+I like to hack and mod shit. 
+I build bots, tools, and systems that don’t fuck around — **with the help of AI**. 
+Not gonna pretend otherwise. AI teaches, I learn, I write better code. End of story.
 
 ---
 
