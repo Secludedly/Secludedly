@@ -81,12 +81,6 @@ A no-bullshit Windows desktop organizer — no Electron bloat.
 
 ---
 
-## 📌 Pinned Repositories
-
-_(Use GitHub’s native pinned repos below this README to show your top projects.)_
-
----
-
 ## 📫 Connect / Contact
 
 <p align="center">
