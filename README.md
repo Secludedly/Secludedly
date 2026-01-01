@@ -1,29 +1,29 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=SECLUDEDLY&fontSize=52&fontColor=00ffe1&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f1a,50:1b1f3b,100:0b0f1a&height=240&section=header&text=SECLUDEDLY&fontSize=56&fontColor=00fff7&animation=fadeIn&fontAlignY=45&font=Orbitron&desc=Dark%20Automation%20%7C%20C%23%20%7C%20Bots%20%26%20Tooling&descAlignY=70&descSize=16" />
 </p>
 
 ---
 
 ## 🧠 Who the hell am I?
 
-C# hobbyiest in training.   
+C# hobbyist in training.  
 Pokémon legality nerd.  
 I like to hack and mod shit.
 
-I build bots, tools, and systems that don’t fuck around, with the help of AI.
-I'm not gonna lie and tell you I'm something I'm not. AI is cool, shut up. It teaches me as I learn and write.
+I build bots, tools, and systems that don’t fuck around — **with the help of AI**.  
+Not gonna pretend otherwise. AI teaches, I learn, I write better code. End of story.
 
 ---
 
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="44"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg" width="44"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="44"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="44"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="44"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="44"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="42"/>
 </p>
 
 ---
@@ -31,9 +31,9 @@ I'm not gonna lie and tell you I'm something I'm not. AI is cool, shut up. It te
 ## 🔥 What I Actually Build
 
 ### ⚙️ ZE FusionBot
-Discord-based Pokémon trading & automation bot.
-Built on **SysBot.NET + PKHeX.Core**, heavily modified.
-It's a fusion of many other forks.
+Discord-based Pokémon trading & automation bot.  
+Built on **SysBot.NET + PKHeX.Core**, heavily modified.  
+A fusion of multiple forks, rebuilt to be stable and enforce legality.
 
 **Highlights**
 - Auto-legality enforcement
@@ -58,11 +58,11 @@ A **no-bullshit** Windows desktop organizer.
 ## 📊 Details
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Secludedly&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Secludedly&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Secludedly&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.vercel.app?user=Secludedly&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -78,5 +78,5 @@ A **no-bullshit** Windows desktop organizer.
 <hr/>
 
 <p align="center">
-  <sub>No time for bullshit. I do stuff. It exists. Enjoy or don't.</sub>
+  <sub>No time for bullshit. I build things. They exist. Use them or don’t.</sub>
 </p>
