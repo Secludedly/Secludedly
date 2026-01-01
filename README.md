@@ -1,79 +1,105 @@
+<!-- ================= Header / Animated GIF ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0a0f1e,50:141a33,100:0a0f1e&text=SECLUDEDLY&fontSize=54&fontColor=00f5ff&fontAlignY=38&animation=fadeIn" />
+  <!-- Replace with your own GIF if you want -->
+  <img src="https://github.com/Secludedly/Secludedly/blob/main/header-animation.gif" alt="Secludedly" width="600"/>
 </p>
 
 <p align="center">
-  <sub>
-    <span style="color:#00f5ff">Dark Automation</span> •
-    <span style="color:#8a7dff">C#</span> •
-    <span style="color:#ff2f92">Bots & Tooling</span>
-  </sub>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Secludedly.Secludedly&left_text=Visitors" />
 </p>
-
-<br/>
 
 ---
 
-## 🧠 Who the hell am I?
+## 🧠 About Me
 
-C# hobbyist in training.  
-Pokémon legality nerd.  
-I like to hack and mod shit.
+**Secludedly** — Dark-mode automation rogue.  
 
-I build bots, tools, and systems that don’t fuck around — **with the help of AI**.  
-Not pretending otherwise. AI teaches, I learn, I write better code.
+Full-stack tinkerer in **C#**, bot developer, Pokémon tooling nerd.  
+I build bots, tools, and systems that punch above their weight — AI helps me level up faster.
 
 ---
 
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="36"/>
+  <a href="https://learn.microsoft.com/dotnet/csharp/">
+    <img src="https://img.shields.io/badge/C%23-23239120?style=flat&logo=c-sharp&logoColor=white" />
+  </a>
+  <a href="https://dotnet.microsoft.com/">
+    <img src="https://img.shields.io/badge/.NET-0078D7?style=flat&logo=dotnet&logoColor=white" />
+  </a>
+  <a href="https://visualstudio.microsoft.com/">
+    <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat&logo=visual-studio&logoColor=white" />
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  </a>
+  <a href="https://github.com/Secludedly">
+    <img src="https://img.shields.io/badge/GitHub-12100E?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="https://discord.com/">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🔥 What I Actually Build
+## 🛠️ Projects
 
 ### ⚙️ ZE FusionBot
-Discord-based Pokémon trading & automation bot  
-Built on **SysBot.NET + PKHeX.Core**, heavily modified.
-
-- Auto-legality enforcement  
-- Batch trades & ZIP handling  
-- Encounter, IV, nature, language enforcement  
-- Custom WinForms controller UI  
-- Thread-safe trade queues  
-
----
-
-### 🧱 NoBS Desktop Organizer
-A **no-bullshit** Windows desktop organizer.
-
-- Profile-based layouts  
-- Zero fluff UI  
-- Stability-first logic  
-- No Electron trash  
-
----
-
-## 🧩 How I Work
-
-- I automate first, polish second  
-- I care about legality, correctness, and stability  
-- I refactor aggressively  
-
----
-
-<hr/>
+Discord Pokémon trading & automation bot.  
+Built on **SysBot.NET + PKHeX.Core**, heavily customized.
 
 <p align="center">
-  <sub>
-    No hype. No flex cards. Just projects that work.
-  </sub>
+  <a href="https://github.com/Secludedly/ZE-FusionBot/releases">
+    <img src="https://img.shields.io/github/v/release/Secludedly/ZE-FusionBot?style=flat&color=informational" />
+  </a>
+  <a href="https://github.com/Secludedly/ZE-FusionBot/releases/download">
+    <img src="https://img.shields.io/github/downloads/Secludedly/ZE-FusionBot/total?style=flat&color=success" />
+  </a>
+  <a href="https://github.com/Secludedly/ZE-FusionBot">
+    <img src="https://img.shields.io/badge/Language-C%23-blue?style=flat" />
+  </a>
+</p>
+
+---
+
+### 🔹 NoBS Desktop Organizer
+A no-bullshit Windows desktop organizer — no Electron bloat.
+
+<p align="center">
+  <a href="https://github.com/Secludedly/NoBS.DesktopOrganizer/releases">
+    <img src="https://img.shields.io/github/v/release/Secludedly/NoBS-Desktop-Organizer?style=flat&color=informational" />
+  </a>
+  <a href="https://github.com/Secludedly/NoBS.DesktopOrganizer/releases/download">
+    <img src="https://img.shields.io/github/downloads/Secludedly/NoBS-Desktop-Organizer/total?style=flat&color=success" />
+  </a>
+  <a href="https://github.com/Secludedly/NoBS-DesktopOrganizer">
+    <img src="https://img.shields.io/badge/Language-C%23-blue?style=flat" />
+  </a>
+</p>
+
+---
+
+## 📌 Pinned Repositories
+
+_(Use GitHub’s native pinned repos below this README to show your top projects.)_
+
+---
+
+## 📫 Connect / Contact
+
+<p align="center">
+  <a href="https://discord.com/invite/BkHRuJdN7d">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://github.com/Secludedly">
+    <img src="https://img.shields.io/badge/GitHub-12100E?style=flat&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <sub>No time for bullshit. I build tools that make shit happen.</sub>
 </p>
