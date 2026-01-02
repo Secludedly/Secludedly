@@ -1,11 +1,10 @@
 <!-- ================= Header / Animated GIF ================= -->
 <p align="center">
-  <!-- Replace with your own GIF if you want -->
-  <img src="https://github.com/Secludedly/Secludedly/blob/main/header-animation.gif" alt="Secludedly" width="600"/>
+  <img src="https://raw.githubusercontent.com/Secludedly/Secludedly/main/githeader.gif" alt="Secludedly Header" width="700"/>
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Secludedly.Secludedly&left_text=Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=Secludedly&label=PROFILE+VIEWS&color=0fffc3&style=flat-square" />
 </p>
 
 ---
@@ -65,16 +64,16 @@ Built on **SysBot.NET + PKHeX.Core**, heavily customized.
 ---
 
 ### 🔹 NoBS Desktop Organizer
-A no-bullshit Windows desktop organizer with live positioning memory, volume control and desktop wallpaper per profile.
+A no-bullshit Windows desktop organizer with live positioning memory, volume control, and desktop wallpaper per profile.
 
 <p align="center">
   <a href="https://github.com/Secludedly/NoBS.DesktopOrganizer/releases">
-    <img src="https://img.shields.io/github/v/release/Secludedly/NoBS-Desktop-Organizer?style=flat&color=informational" />
+    <img src="https://img.shields.io/github/v/release/Secludedly/NoBS.DesktopOrganizer?style=flat&color=informational" />
   </a>
-  <a href="https://github.com/Secludedly/NoBS.DesktopOrganizer/releases/download">
-    <img src="https://img.shields.io/github/downloads/Secludedly/NoBS-Desktop-Organizer/total?style=flat&color=success" />
+  <a href="https://github.com/Secludedly/NoBS.DesktopOrganizer/releases">
+    <img src="https://img.shields.io/github/downloads/Secludedly/NoBS.DesktopOrganizer/total?style=flat&color=success" />
   </a>
-  <a href="https://github.com/Secludedly/NoBS-DesktopOrganizer">
+  <a href="https://github.com/Secludedly/NoBS.DesktopOrganizer">
     <img src="https://img.shields.io/badge/Language-C%23-blue?style=flat" />
   </a>
 </p>
