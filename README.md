@@ -38,17 +38,10 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Secludedly&theme=tokyonight" />
-
-</div>
-
----
-
-<div align="center">
-
 <table>
 <tr>
-<td width="720px" align="center">
+
+<td width="480px" align="center" valign="top">
 
 <h3>⚙️ ZE FusionBot</h3>
 
@@ -77,16 +70,8 @@ Built on <strong>SysBot.NET + PKHeX.Core</strong>
 <img src="https://img.shields.io/badge/C%23-.NET-blue?style=flat-square" />
 
 </td>
-</tr>
-</table>
 
-</div>
-
-<div align="center">
-
-<table>
-<tr>
-<td width="720px" align="center">
+<td width="480px" align="center" valign="top">
 
 <h3>🔹 NoBS Desktop Organizer</h3>
 
@@ -114,10 +99,92 @@ Live window positions & per-profile controls
 <img src="https://img.shields.io/badge/C%23-WinForms-blue?style=flat-square" />
 
 </td>
+
+</tr>
+
+<tr>
+
+<td width="480px" align="center" valign="top">
+
+<h3>🧬 PKHeX w/ ALM Releases & Plugins</h3>
+
+<strong>PKHeX dev builds w/ ALM, plugins,<br>
+and preconfigured config files</strong>
+
+<br><br>
+
+<b>Key Features</b><br>
+• Vast amount of vital plugins<br>
+• Preconfigured configs<br>
+• Early access dev builds<br>
+• Up-to-date ALM
+
+<br><br>
+
+<a href="https://github.com/Secludedly/PKHeX-ALM-Releases">Repository</a>
+&nbsp;•&nbsp;
+<a href="https://github.com/Secludedly/PKHeX-ALM-Releases/releases">Releases</a>
+
+<br><br>
+
+<img src="https://img.shields.io/github/v/release/Secludedly/PKHeX-ALM-Releases?style=flat-square&color=00fff7" />
+<img src="https://img.shields.io/github/downloads/Secludedly/PKHeX-ALM-Releases/total?style=flat-square&color=1b1f3b" />
+<img src="https://img.shields.io/badge/C%23-.NET-blue?style=flat-square" />
+
+</td>
+
+<td width="480px" align="center" valign="top">
+
+<h3>🔤 Bulk Font Installer</h3>
+
+<strong>Install a large amount of fonts<br>
+on your Windows PC extremely fast</strong>
+
+<br><br>
+
+<b>Key Features</b><br>
+• Logging per font<br>
+• Very simple UI<br>
+• Ignores broken fonts<br>
+• Combines font families
+
+<br><br>
+
+<a href="https://github.com/Secludedly/Bulk-Font-Installer">Repository</a>
+&nbsp;•&nbsp;
+<a href="https://github.com/Secludedly/Bulk-Font-Installer/releases">Releases</a>
+
+<br><br>
+
+<img src="https://img.shields.io/github/v/release/Secludedly/Bulk-Font-Installer?style=flat-square&color=00fff7" />
+<img src="https://img.shields.io/github/downloads/Secludedly/Bulk-Font-Installer/total?style=flat-square&color=1b1f3b" />
+<img src="https://img.shields.io/badge/C%23-.NET-blue?style=flat-square" />
+
+</td>
+
 </tr>
 </table>
 
 </div>
+
+---
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Secludedly&theme=tokyonight" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Secludedly&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Secludedly&theme=tokyonight" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Secludedly&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Secludedly&theme=tokyonight&utcOffset=-5" />
+
+</div>
+
 
 ---
 
