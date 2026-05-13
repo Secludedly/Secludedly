@@ -43,7 +43,7 @@
 
 <td width="480px" align="center" valign="top">
 
-<h3>⚙️ ZE FusionBot</h3>
+<h3>⚙️ FusionBot</h3>
 
 <strong>Discord Pokémon trading & automation bot</strong><br>
 Built on <strong>SysBot.NET + PKHeX.Core</strong>
@@ -59,9 +59,9 @@ Built on <strong>SysBot.NET + PKHeX.Core</strong>
 
 <br><br>
 
-<a href="https://github.com/Secludedly/ZE-FusionBot">Repository</a>
+<a href="https://github.com/Secludedly/FusionBot">Repository</a>
 &nbsp;•&nbsp;
-<a href="https://github.com/Secludedly/ZE-FusionBot/releases">Releases</a>
+<a href="https://github.com/Secludedly/FusionBot/releases">Releases</a>
 
 <br><br>
 
