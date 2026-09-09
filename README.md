@@ -162,6 +162,70 @@ on your Windows PC extremely fast</strong>
 
 </td>
 
+<tr>
+
+<td width="480px" align="center" valign="top">
+
+<h3>⏰ Sec's See Time</h3>
+
+<strong>The World's Alarm Clock</strong><br>
+A powerful customizable Windows clock & alarm system
+
+<br><br>
+
+<b>Key Features</b><br>
+• Advanced alarm scheduling & snooze<br>
+• Custom sounds, recordings & YouTube alarms<br>
+• World Clock with multiple time zones<br>
+• Appearance Studio & custom themes<br>
+• Windows system tray integration
+
+<br><br>
+
+<a href="https://github.com/Secludedly/SecsSeeTime">Repository</a>
+&nbsp;•&nbsp;
+<a href="https://github.com/Secludedly/SecsSeeTime/releases">Releases</a>
+
+<br><br>
+
+<img src="https://img.shields.io/github/v/release/Secludedly/SecsSeeTime?style=flat-square&color=00fff7" />
+<img src="https://img.shields.io/github/downloads/Secludedly/SecsSeeTime/total?style=flat-square&color=1b1f3b" />
+<img src="https://img.shields.io/badge/C%23-.NET%2010%20%7C%20WPF-blue?style=flat-square" />
+
+</td>
+
+<td width="480px" align="center" valign="top">
+
+<h3>🎮 Switch Remote for PC</h3>
+
+<strong>Control Your Nintendo Switch From Your PC</strong><br>
+A powerful remote controller and macro automation tool for Nintendo Switch
+
+<br><br>
+
+<b>Key Features</b><br>
+• Live Mode for real-time controller input<br>
+• Macro recording & playback<br>
+• Support for multiple Switch consoles<br>
+• Automate repetitive in-game tasks<br>
+• Synchronize actions across multiple consoles
+
+<br><br>
+
+<a href="https://github.com/Secludedly/Switch-Remote-For-PC">Repository</a>
+&nbsp;•&nbsp;
+<a href="https://github.com/Secludedly/Switch-Remote-For-PC/releases">Releases</a>
+
+<br><br>
+
+<img src="https://img.shields.io/github/v/release/Secludedly/Switch-Remote-For-PC?style=flat-square&color=00fff7" />
+<img src="https://img.shields.io/github/downloads/Secludedly/Switch-Remote-For-PC/total?style=flat-square&color=1b1f3b" />
+<img src="https://img.shields.io/badge/C%23-.NET%20Framework%204.7.2%20%7C%20WinForms-blue?style=flat-square" />
+
+</td>
+
+</tr>
+
 </tr>
 </table>
 
